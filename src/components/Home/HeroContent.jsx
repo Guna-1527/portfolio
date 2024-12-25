@@ -8,7 +8,7 @@ export default function HeroContent() {
         Hi, my name is
       </motion.p>
       <motion.h1 {...fadeIn(0.2)} className="text-3xl sm:text-4xl md:text-7xl font-bold text-textPrimary">
-        John Doe.
+        Guna Prasanth.
       </motion.h1>
       <motion.h2 {...fadeIn(0.4)} className="text-2xl sm:text-3xl md:text-6xl font-bold text-textSecondary">
         I build things for the web.
